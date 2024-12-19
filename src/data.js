@@ -1,10 +1,10 @@
 const reviews = [
   {
     id: 1,
-    name: "Pranay Gupta",
+    name: "Mohamm Adnan Khan",
     job: "Software Engineer",
     image: "https://aeccc.targettechnology.in/static/media/PranayGupta.f3c530b7630ba8efb2ab.jpg",
-    text: "I have had the pleasure of working with this team on several projects, and I am consistently impressed with their technical expertise and ability to deliver quality solutions on time and within budget. They are a true partner and an asset to any project.",
+    text: "I have had the pleasure of working on several projects, showcasing my technical expertise and consistently delivering quality solutions on time and within budget. I strive to be a reliable partner and an asset to any team or project..",
   },
   {
     id: 2,
