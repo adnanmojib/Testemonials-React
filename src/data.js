@@ -1,9 +1,11 @@
+import myImage from './img/image.png';
 const reviews = [
   {
     id: 1,
-    name: "Mohamm Adnan Khan",
-    job: "Software Engineer",
-    image: "https://aeccc.targettechnology.in/static/media/PranayGupta.f3c530b7630ba8efb2ab.jpg",
+    name: "Mohammad Adnan Khan",
+    job: "Software Developer",
+    // image: "https://aeccc.targettechnology.in/static/media/PranayGupta.f3c530b7630ba8efb2ab.jpg",
+    image: myImage,
     text: "I have had the pleasure of working on several projects, showcasing my technical expertise and consistently delivering quality solutions on time and within budget. I strive to be a reliable partner and an asset to any team or project..",
   },
   {
