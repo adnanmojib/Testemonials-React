@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Testemonials-React/static/css/main.66d28041.css",
+    "main.js": "/Testemonials-React/static/js/main.49647a7d.js",
+    "static/media/image.png": "/Testemonials-React/static/media/image.097357e2d86a7e757d1e.png",
+    "index.html": "/Testemonials-React/index.html",
+    "main.66d28041.css.map": "/Testemonials-React/static/css/main.66d28041.css.map",
+    "main.49647a7d.js.map": "/Testemonials-React/static/js/main.49647a7d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.66d28041.css",
+    "static/js/main.49647a7d.js"
+  ]
+}
